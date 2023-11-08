@@ -229,7 +229,7 @@ npm run start
         <td width="100" align="center">진호병</td>
         <td width="100" align="center">김윤중</td>
         <td width="100" align="center">노재열</td>
-        <td width="100" align="center">윤창현</td>
+        <td width="100" align="center">오창현</td>
     </tr>
     <tr>
         <th>역할</th>
